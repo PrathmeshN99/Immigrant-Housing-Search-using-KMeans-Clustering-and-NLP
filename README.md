@@ -1,4 +1,4 @@
-# Immigrant-Housing-Search-using-KMeans-Clustering-and-NLP
+# Home Hunt
 By integrating data scraping from Google for amenities and Natural Language Processing for sentiment analysis, the project seeks to offer a holistic solution that optimizes the accommodation search process, enriches the overall immigrant experience, and assists businesses in strategic location decisions.
 
 * Young adults often face difficulties when it comes to immigrating to new cities for pursuing higher studies from colleges or for work purposes. As different people have different interests, finding a suitable place living becomes a challenge​
